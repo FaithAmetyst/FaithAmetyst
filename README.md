@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi this is my github ok um. hi. ok. check my strawpage byi 
 
 <!--
 **FaithAmetyst/FaithAmetyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
