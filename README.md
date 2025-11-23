@@ -1,6 +1,6 @@
 <img width="1600" height="1200" alt="IMG_20251123_102652" src="https://github.com/user-attachments/assets/9459ac52-f343-4724-abb5-28fd3e3373eb" />
 
-## hi this is my github ok um. hi. ok. check my strawpage byi 
+
 
 <!--
 **FaithAmetyst/FaithAmetyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
