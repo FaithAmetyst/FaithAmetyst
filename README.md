@@ -1,6 +1,13 @@
 <img width="1600" height="1200" alt="IMG_20251123_102652" src="https://github.com/user-attachments/assets/9459ac52-f343-4724-abb5-28fd3e3373eb" />
-
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+"Yₒᵤ dₒₙ'ₜ ᵣₑcₒgₙᵢzₑ ₘₑ? ᵢ ₐₗᵣₑₐdy ₜₒₗd yₒᵤ wₕₒ ᵢ ₐₘ,
+⠀⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀bₑₐᵤₜᵢfᵤₗ, yₒᵤₙg
+<!--
+Source - https://stackoverflow.com/q
+Posted by Dave Dopson, modified by community. See post 'Timeline' for change history
+Retrieved 2025-11-24, License - CC BY-SA 4.0
+-->
+$${\color{#7231cc} ok hi im testing.}$$
 
 <!--
 **FaithAmetyst/FaithAmetyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
