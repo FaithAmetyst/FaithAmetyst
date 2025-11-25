@@ -2,7 +2,7 @@
             "𝐘𝐨𝐮 𝐝𝐨𝐧'𝐭 𝐫𝐞𝐜𝐨𝐠𝐧𝐢𝐳𝐞 𝐦𝐞? 𝐈 𝐚𝐥𝐫𝐞𝐚𝐝𝐲 𝐭𝐨𝐥𝐝 𝐲𝐨𝐮 𝐰𝐡𝐨 𝐈 𝐚𝐦,
 
 
-                        $\textcolor{#7a32e6}{\textsf{𝐛𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥, 𝐲𝐨𝐮𝐧𝐠, 𝐚𝐭𝐭𝐫𝐚𝐜𝐭𝐢𝐯𝐞.}}$ "
+                        $\textcolor{#a573f0}{\textsf{𝐛𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥, 𝐲𝐨𝐮𝐧𝐠, 𝐚𝐭𝐭𝐫𝐚𝐜𝐭𝐢𝐯𝐞.}}$ "
 
 
 <ul> do NOT interact if youre;
@@ -10,7 +10,8 @@
  <li>@proxynutz</li>
  <li>@ArtificialVampire(TOP 2 DNI)</li>
  <li>@ivangaze</li>
-
+ <li>@KilledByAngel</li>
+ <li>@yaoispit</li>
  
 
 ./j these people are really cool ok
