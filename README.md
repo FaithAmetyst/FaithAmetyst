@@ -3,6 +3,13 @@
 "𝐘𝐨𝐮 𝐝𝐨𝐧'𝐭 𝐫𝐞𝐜𝐨𝐠𝐧𝐢𝐳𝐞 𝐦𝐞? 𝐈 𝐚𝐥𝐫𝐞𝐚𝐝𝐲 𝐭𝐨𝐥𝐝 𝐲𝐨𝐮 𝐰𝐡𝐨 𝐈 𝐚𝐦
 ⠀⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝐛𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥, 𝐲𝐨𝐮𝐧𝐠, 𝐚𝐭𝐭𝐫𝐚𝐜𝐭𝐢𝐯𝐞"
 
+do NOT interact if youre:
+@caff3inez
+@proxynutz
+@ArtificialVampire
+@ivangaze
+
+./j these people are really cool ok
 <!--
 **FaithAmetyst/FaithAmetyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
