@@ -12,7 +12,7 @@
  <li>@ivangaze</li>
  <li>@KilledByAngel</li>
  <li>@yaoispit</li>
- 
+</ul>
 
 ./j these people are really cool ok
 <!--
