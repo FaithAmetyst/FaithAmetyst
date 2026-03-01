@@ -6,16 +6,7 @@
 }}$ "
 
 
-<ul> do NOT interact if youre;
- <li>@caff3inez(DNI DNI TOP 1 BLACKLIST)</li>
- <li>@proxynutz</li>
- <li>@ArtificialVampire(TOP 2 DNI)</li>
- <li>@ivangaze</li>
- <li>@KilledByAngel</li>
- <li>@yaoispit</li>
-</ul>
-
-./j these people are really cool ok
+read the strawpage in my links for mor info!!! 0_0
 <!--
 **FaithAmetyst/FaithAmetyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
